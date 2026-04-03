@@ -1,0 +1,5 @@
+{
+  "name": "PromptHub AI",
+  "description": "A modern fullstack web application for discovering, creating, and managing AI prompts. Features Supabase Auth, PostgreSQL, and a clean SaaS UI.",
+  "requestFramePermissions": ["clipboard-write"]
+}
